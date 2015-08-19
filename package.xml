@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>cuda_catkin</name>
+  <version>0.1.0</version>
+  <description>
+    Catkin module to find CUDA, set some compiler flags and wrappers to build cuda targets.
+  </description>
+
+  <maintainer email="code@werlberger.org">Manuel Werlberger</maintainer>
+  <license>BSD-3-Clause</license>
+
+  <author email="code@werlberger.org">Manuel Werlberger</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+</package>
